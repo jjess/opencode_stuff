@@ -1,0 +1,12 @@
+// path for this file:
+// ~/.config/opencode/opencode.json
+{
+  "$schema": "https://opencode.ai/config.json",
+  // "$schema": "https://opencode.ai/config.json",
+  // "model": "opencode/big-pickle",
+  "autoupdate": true,
+  
+  "plugin": [
+    "opencode-ignore"
+  ]
+}
