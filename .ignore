@@ -1,0 +1,9 @@
+# Bloquear todo el directorio de secretos
+/secrets/**
+src/etc/secrets.yml
+# Bloquear archivos de entorno
+.env
+.env.*
+# Bloquear archivos de clave
+*.key
+*.pem
